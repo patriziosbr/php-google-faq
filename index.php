@@ -19,7 +19,15 @@
                 "<p>Puoi leggere ulteriori informazioni sulla sicurezza online, incluso come proteggere te e la tua famiglia online, nel <a href='#'> Centro Google per la sicurezza online.</a></p>",
                 "<p><a href='#'>Scopri</a> quali misure adottiamo per garantire protezione e sicurezza alle tue informazioni personali, lasciando a te il controllo.</p>"
             ]
-    ]
+        ],
+        [
+            "title" => "<h1>Perché il mio account è associato a un paese?",
+            "content" => [ 
+                "<p>Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:</p>"
+
+            ]
+        ]
+    ];    
 ?>
 
 <!DOCTYPE html>
