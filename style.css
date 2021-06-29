@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 180%;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+.container h1 {
+    margin-bottom: 32px;
+    font-family: 'Open Sans', sans-serif;
+    color: #677687;
+}
+
+.container p {
+    font-size: 14px;
+    margin-bottom: 24px;
+    letter-spacing: 0.2px;
+}
+
+ol[type="a"] {
+    
+    padding: 24px 0 24px 48px;
+}
+
+li p {
+    line-height: 200%;
+}
+
+.odered-list {
+    padding-left: 16px;
+    margin: 24px 0;
+}
